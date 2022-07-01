@@ -23,7 +23,7 @@ This section will include the work and code I have learnt and done for bulk and 
 
 - [RNA Sequence Analysis Preparation](https://litingku.github.io/RNA-Alterntaive-Splicing-Analyses/)
 
-- [Chromosome Analysis](https://github.com/LitingKu/Chromosome-Grid-Plot.git).  
+- [Chromosome Analysis](https://litingku.github.io/Chromosome-Grid-Plot/).  
 This include the R function I written for generating the frequency table and chromosome grid plot for Human and Mouse.
 
 
