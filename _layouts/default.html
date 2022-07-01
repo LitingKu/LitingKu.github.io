@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
+<html lang="{{ site.lang | default: "UTF-8" }}">
   <head>
     <meta charset="UTF-8">
 
@@ -11,19 +11,24 @@
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
-   </head>
-   <header class="page-header" role="banner">
-      <h1 class="project-name">Li-Ting's GitHub</h1>
-      <a class="btn btn-outline-light btn-lg" href="#!" role="button"
-          >Call to action</a
+  </head>
+  <body>
+    <a id="skip-to-content" href="#content">Skip to the content.</a>
+
+    <header class="page-header" role="banner">
+      <h1 class="project-name">Li-Ting's GitHub Page</h1>
+      {% if site.github.is_project_page %}
+        <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
+      {% endif %}
     </header>
-  
+
     <main id="content" class="main-content" role="main">
       {{ content }}
 
       <footer class="site-footer">
-     2022 Li-Ting Ku
+      2022 Li-Ting Ku
       </footer>
     </main>
   </body>
 </html>
+
