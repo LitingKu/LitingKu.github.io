@@ -1,6 +1,6 @@
 # Hello, welcome to my github!
 
-[Home](index.md) | [Contact](contact.md) | [Lab Work](LitingKu/RNA-Alterntaive-Splicing-Analyses/README.md)
+[Home](index.md) | [Contact](contact.md) | [Lab Work](README.md)
 
 ![ ](uploads/pic1.jpg)
 
