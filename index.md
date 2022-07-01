@@ -1,6 +1,6 @@
 # Hello, welcome to my github!
 
-[Home](index.md) | [Contact](contact.md) | [Notes on Biostatistics](notes.md) | [Lab Work](about.md)
+[Home](index.md) | [Contact](contact.md) | [Notes on Biostatistics](Notes.md) | [Lab Work](about.md)
 
 ![ ](uploads/pic1.jpg)
 
