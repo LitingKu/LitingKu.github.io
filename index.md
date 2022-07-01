@@ -1,6 +1,6 @@
 # Hello, welcome to my github!
 
-[Home](index.md) | [Contact](contact.md) | [Lab Work](README.md)
+[Home](index.md) | [Contact](contact.md) | [Lab Work](about.md)
 
 ![ ](uploads/pic1.jpg)
 
